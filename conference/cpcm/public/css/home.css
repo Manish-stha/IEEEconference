@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.info_slide{
+    margin:0;
+    padding:0;
+}
+
+.nav-move{
+    height: 8vh;
+}
+
+.slide-pic{
+    height: 100vh;
+}
+.guest-pic{
+    height:30vh;
+    width:20vh;
+}
+.main-content{
+    content: "";
+    display: table;
+}
+.discription{
+    padding-top: .5vh;
+    padding-bottom: 10vh;
+    padding-left: 5vh;
+    padding-right: 10vh;
+}
+.header-link{
+    padding-left: 10vh;
+}
+.footer{
+    background-color: #E6E6FF;
+}
+.counter{
+    border-radius: 5vh;
+}
